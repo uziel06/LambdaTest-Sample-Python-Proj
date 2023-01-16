@@ -7,7 +7,7 @@ This project is an example of how to run an Automated Test on LambdaTest Platfor
 
 To configure the project, replace the username and accessKey in the conftest.py with your own username and accessKey that will be provided by lambdatest after logging in to their app.
 
-Then you to run the test, type and execute the following command in the terminal:
+Then for you to be able to run the test, type and execute the following command in the terminal:
 
 pytest -s -v -n=1
 
